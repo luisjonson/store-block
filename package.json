@@ -14,5 +14,21 @@
     "lint-staged": "^10.0.2",
     "prettier": "^1.19.1",
     "typescript": "^3.7.5"
-  }
+  },
+  "description": "Here you'll learn how to create awesome Store Framework blocks!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "^16.13.1",
+    "require": "^2.4.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisjonson/store-block.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/luisjonson/store-block/issues"
+  },
+  "homepage": "https://github.com/luisjonson/store-block#readme"
 }
